@@ -409,3 +409,24 @@ SVN은 차이점만을 저장하는 반면 git은 전체를 저장함
 |---|---|---|---|
 |브랜치| 브랜치는 하나의 원격저장소에서 분기를 나눈다. | 브랜치는 하나의 원본저장소에서 코드 커밋이력을 편하게 볼 수 있다. | 다수의 사용자가 다수의 브랜치를 만들면 관리가 어렵다.
 |포크| 포크는 여러 원격저장소로 분기를 나눈다. | 원본저장소에 영향을 미치지 않으므로 원격저장소에서 마음껏 코드를 수정할 수 있다. | 원본저장소의 이력을 보려면 따로 주소를 추가해야 한다.|
+
+### 사용 명령어
+
+1. git init
+2. git add
+3. git commit
+4. git push
+5. git pull
+6. git clone
+7. git branch
+8. git checkout
+9. git merge
+10. git reset
+11. git revert
+12. git rebase
+13. git stash
+14. git tag
+15. git log
+16. git fetch
+17. git remote
+18. git cherry-pick
