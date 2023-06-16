@@ -253,11 +253,11 @@ VI 모드
 
 Shell: 커널과 사용자 사이를 이어주는 명령어 처리기
 
-Bourne Shell: sh
-C Shell: csh
-tee-see-shell: tcsh
-Z Shell: zsh
-Bourne Again Shell: bash (가장 많이 쓰이고 기본으로 채택)
+- Bourne Shell: sh  
+- C Shell: csh  
+- tee-see-shell: tcsh
+- Z Shell: zsh
+- Bourne Again Shell: bash (가장 많이 쓰이고 기본으로 채택)
 
 터미널: 터미널은 컴퓨터에서 명령어를 입력하고 실행하는 인터페이스, GUI x, 리눅스는 shell을 사용
 
